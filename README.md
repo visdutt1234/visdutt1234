@@ -12,6 +12,6 @@ Photoshop, tailwind css, expert in newsletter making</p>
 <p><b>How to reach me:- </b>:-</p>
 <p><a href="https://www.linkedin.com/in/vishnu-dutt-jangid-7957ba160/" title="vishnu datt jangid" target="_blank">linkedin</a></p>
 <p><a href="https://www.instagram.com/jangid.vishnu1/" title="vishnu datt jangid" target="_blank">Instagram</a></p>
-<p><a href="mailto: vishnudatt.com@gmail.com" />vishnudatt.com@gmail.com</a></p>
+<p><a href="mailto: vishnudatt.com@gmail.com" title="vishnu datt jangid" target="_blank" />vishnudatt.com@gmail.com</a></p>
 
   
