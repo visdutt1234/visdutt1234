@@ -16,4 +16,17 @@ and SEO friendly code.<p>
 <p><a href="https://www.instagram.com/jangid.vishnu1/" title="vishnu datt jangid" target="_blank">Instagram</a></p>
 <p><a href="mailto: vishnudatt.com@gmail.com" title="vishnu datt jangid" target="_blank" />vishnudatt.com@gmail.com</a></p>
 
+<h2>Projects</h2>
+CarDekho
+2019 – Present
+CarDekho is the personal mobility space to deliver quality information and aid customers across all aspects of buying or
+selling a car. I am responsible for developing front end tasks.
+●
+Developed cardekho my-account section module (login / register, my order, shortlisted vehicles, my vehicles, profile
+settings using ReactJs, Javascript, HTML, CSS, JSON and api interrogation in GraphQL. ). Path (
+https://www.cardekho.com/ -> login/register -> login model -> my-account )
+●
+Developed Cross-Sell, Dealer, Key Specs, variant price list widgets and NCT (New car transition ) Entry points. Path
+(https://www.cardekho.com/ -> model pages (overview, price))
+
   
