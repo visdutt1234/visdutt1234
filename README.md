@@ -28,14 +28,14 @@ https://www.cardekho.com/ -> login/register -> login model -> my-account )
 ●
 Developed Cross-Sell, Dealer, Key Specs, variant price list widgets and NCT (New car transition ) Entry points. Path
 (https://www.cardekho.com/ -> model pages (overview, price))
-
+<hr></hr>
 
 <p>NCT</p>
 <p>Apr, 2021 – Present</p>
 NCT ( New car transition system ) is a new car transition management system. for end-to-end transparency between buyers
 from carDekho and Dealers. Here my responsibilities are to develop scalable UI using tailwind-css and front-end technology
 like ReactJs, Javascript, HTML, CSS, and api interrogation.
-
+<hr></hr>
 
 <p>Gaadi Store</p>
 <p>Jan, 2020 – Feb, 2021</p>
@@ -44,13 +44,14 @@ Gaadi Store is a web-system for sell, Check Valuation and Book Inspection of you
 Me and my team developed an end-to-end system for selling a used car using front-end technology ReactJs,
 Javascript, HTML, CSS, and api interrogation. Here my biggest challenge is to find car valuation using car data. Path
 (https://www.gaadi.com/ -> Enter Car no. or select model )
-
+<hr></hr>
 
 <p>LMS</p>
 <p>Apr, 2019 – Dec 2020</p>
 LMS is a central lead management system for car leads. When a customer visits carDekho site and selects any model and
 feels information like mobile no, model details, city the all information saved in LMS. Here my responsibilities are to develop
 user-interface using front-end technology like HTML, CSS, JSON, jquery.
+<hr></hr>
 
 <p>Jansons Carpets</p>
 <p>June, 2019 – Aug 2019</p>
@@ -58,7 +59,7 @@ Jansons Carpets is an informational website about handmade, handnotted carpets. 
 user-interface using front-end technology like HTML, CSS, JSON, jquery. Path (https://jansonscarpets.com/ )
 
 
-
+<hr></hr>
 <p>Icare-Heal / Icare-Heal Website</p>
 <p>April, 2021 – Setp 2021</p>
 Icare-Heal is a Single and Multi Clinic profile creator, website builder for clinics. Here my responsibilities are to develop
