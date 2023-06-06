@@ -58,6 +58,7 @@ Jansons Carpets is an informational website about handmade, handnotted carpets. 
 user-interface using front-end technology like HTML, CSS, JSON, jquery. Path (https://jansonscarpets.com/ )
 
 
+
 <p>Icare-Heal / Icare-Heal Website</p>
 <p>April, 2021 – Setp 2021</p>
 Icare-Heal is a Single and Multi Clinic profile creator, website builder for clinics. Here my responsibilities are to develop
