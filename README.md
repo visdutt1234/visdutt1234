@@ -1,8 +1,8 @@
 <h1 style="border-bottom: solid 1px grey"> 👋 Hi, I’m Vishnu </h1>
-<p><b>UI / FRONT END DEVELOPER  ||   4+ Yr   ||   CarDekho.com  ||  Jaipur (Raj) || Mob. 8947972543 </b><p>
+<p><b>FRONT END DEVELOPER  ||   4+ Yr   ||   CarDekho.com  ||  Jaipur (Raj) || Mob. 8947972543 </b><p>
   
 <b>About me:-</b>
-<p>UI Developer with about 4+ yr of experience in building Pixel Perfect user interfaces / front-end and using ReactJs library and
+<p>Front End Developer with about 4+ yr of experience in building Pixel Perfect user interfaces / front-end and using ReactJs library and
 api integration. Currently working with Girnarsoft in the central team (manage all products of Girnarsoft cardekho, bikedekho,
 insuranceDekho, LMS NCT ) on products focussed to building large scale user interfaces / front-end with optimized, clean
 and SEO friendly code.<p>
