@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Vishnu Jangid</h1>
-<p align="center"><b>Senior Frontend Engineer · Frontend Architect · 7+ Years</b></p>
+<p align="center"><b>Senior Frontend Engineer · Frontend Architect · Software Engineer</b></p>
 <p align="center">React · Next.js · TypeScript · Web Performance · Design Systems · Core Web Vitals</p>
 
 <p align="center">
