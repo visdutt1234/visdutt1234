@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Vishnu Jangid</h1>
-<p align="center"><b>Senior Frontend Engineer · Frontend Architect</b></p>
+<p align="center"><b>Senior Frontend Engineer · Frontend Architect · 7+ Years</b></p>
 <p align="center">React · Next.js · TypeScript · Web Performance · Design Systems · Core Web Vitals</p>
 
 <p align="center">
@@ -12,13 +12,21 @@
 
 ### 🚀 About me
 
-Senior Frontend Engineer with **7+ years** building scalable, performance-driven web platforms for high-traffic, multi-brand products in **automotive and travel**. My work spans frontend architecture, monorepo setups, reusable design systems, and Core Web Vitals optimization for production-scale apps used by millions.
+Senior Frontend Engineer with **7+ years** architecting scalable, performance-driven web platforms for high-traffic, multi-brand products across travel, automotive, and ecommerce — serving millions of users.
 
-- 🏗️ At **CarDekho**, I helped build a centralized PWA platform powering multiple brands and cut JS bundle size by **40%+**.
-- ⚡ Currently at **Thrillophilia**, leading a frontend architecture revamp — Nx monorepo, a Tailwind-based design system, and SEO/performance work on business-critical flows.
-- 🎯 I like solving real product problems: faster pages, scalable codebases, and features that move user acquisition and conversion.
+I own frontend architecture end to end: from monorepo setups and reusable design systems to Core Web Vitals and production-scale performance. I like owning real product problems — faster pages, scalable codebases, and features that directly move user acquisition and conversion.
 
 📍 Jaipur, Rajasthan, India  ·  *Engineer by profession, photographer by passion.* 📷
+
+---
+
+### 🎯 What I own
+
+- **Frontend architecture** — monorepo (Nx) setups, multi-brand codebases, and scalable structure that teams build on.
+- **Design systems** — Tailwind-based component libraries with design tokens for consistent, fast UI delivery.
+- **Web performance** — Core Web Vitals, bundle optimization, code splitting, SSR + critical CSS (owned a **40%+** bundle-size cut and **95%** faster builds).
+- **Revenue-critical flows** — lead, login/registration, account, and SEO surfaces that drive acquisition and conversion.
+- **Engineering quality** — E2E testing, PR quality gates, and mentoring engineers to a high standard.
 
 ---
 
@@ -49,35 +57,35 @@ Senior Frontend Engineer with **7+ years** building scalable, performance-driven
 
 ### 💼 Experience
 
-#### Thrillophilia — Senior Software Engineer
-`May 2025 – Present · Jaipur`
-India's largest experiences and travel marketplace.
-
-- Leading a **frontend architecture revamp** — Nx monorepo + a Tailwind-based design system with design tokens to make the codebase scalable and consistent.
-- Migrated the build system from **Webpack to Vite** and decoupled the React app from the Ruby on Rails backend — **95% faster builds**.
-- Shipped business-critical features: the **Live Ladakh** and **Drops** projects, plus lead/login flows for new, existing, and multi-email users.
-- Drove SEO and rendering improvements (landing-page stability) with backend and product teams.
-- Added **Playwright** E2E tests for core flows and enforced ESLint + Prettier on every PR via GitHub Actions.
+#### Senior Frontend Engineer — Travel marketplace platform
+`2025 – Present`
+- I own a **frontend architecture revamp** — an Nx monorepo and a Tailwind design system with tokens for a scalable, consistent codebase.
+- I own the migration from Webpack to **Vite** and decoupling the React app from the backend — **95% faster builds**.
+- I own business-critical launches, including the **Live Ladakh** and **Drops** initiatives, plus lead/login flows for new, existing, and multi-email users.
+- I lead SEO and rendering improvements with product and backend teams for stable, crawlable landing pages.
+- I own E2E coverage (Playwright) and PR quality gates (ESLint + Prettier via GitHub Actions).
 
 `React · Next.js · SCSS Modules · Ant Design · Nx Monorepo`
 
 <br/>
 
-#### CarDekho Group `· 6 yrs 2 mos`
-*Auto-tech unicorn — CarDekho, BikeDekho, TruckDekho, BatteryDekho (~30M+ monthly users)*
+#### Platform / PWA Engineer — Multi-brand auto-tech platform `(~30M+ monthly users)`
+`2023 – 2025`
+- I owned a **shared component library** — design tokens, base UI, and reusable components consumed across five brand applications.
+- I own the multi-brand architecture pattern that lets each brand extend or override a shared core.
+- I drove a **40%+ reduction** in JS bundle size via lazy loading, error boundaries, and route-level code splitting.
+- I own **PWA service-worker caching** strategies and **SSR with critical CSS** for fast first paint and SEO-crawlable pages.
+- I introduced PurgeCSS, led the TailwindCSS rollout, and own an internal **CRM frontend** built on Vite + Tailwind.
+- I own revenue-critical modules — lead flows, login/registration, My Account, SEO pages — and Core Web Vitals work.
 
-**Software Engineer — Platform / PWA Team** · `Apr 2023 – Apr 2025`
-- Worked on a **centralized PWA codebase** shared across CarDekho, BikeDekho, TruckDekho, BatteryDekho, and early InsuranceDekho.
-- Maintained **`Girnarsoft-react-common`** — design tokens, base UI elements, and reusable components consumed by every brand app.
-- Structured the multi-brand architecture so each brand could extend or override features on a shared core.
-- Reduced JS bundle size by **40%+** via lazy loading, error boundaries, and route-level code splitting.
-- Built **PWA service-worker caching** (cache-first for assets, network-first for pages, network-only for live APIs) and **React SSR with critical CSS** for fast first paint and SEO-crawlable pages.
-- Introduced **PurgeCSS** and rolled out **TailwindCSS** across teams; built an internal **CRM frontend** with Vite + Tailwind.
-- Owned revenue-critical modules — lead flows, login/registration, My Account, SEO pages — and partnered with SEO/growth teams on Core Web Vitals.
+`React · JavaScript · TailwindCSS · PWA · Vite`
 
-**Frontend Developer — UI Team Lead** · `Mar 2019 – Apr 2023`
-- Led a **3-member UI team** delivering client projects from scratch (Ashok Leyland, Kinetic Green, Jansons Carpets) and supporting full-stack teams during frontend integration.
-- Mentored junior developers and set quality standards for performance, accessibility, and design consistency.
+<br/>
+
+#### Frontend Developer · UI Team Lead
+`2019 – 2023`
+- I led a **3-member UI team**, owning end-to-end delivery of client projects from scratch and supporting full-stack teams during frontend integration.
+- I own frontend quality standards — performance, accessibility, and design consistency — and mentor junior engineers.
 
 `HTML · CSS · ReactJS · GraphQL · AMP · TailwindCSS · JavaScript`
 
@@ -85,7 +93,7 @@ India's largest experiences and travel marketplace.
 
 ### 🎓 Education
 
-**Bachelor of Computer Applications (Computer Science)** — University Maharaja College, Jaipur
+**Bachelor of Computer Applications — Computer Science** · Jaipur
 
 ---
 
