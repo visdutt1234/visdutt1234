@@ -96,9 +96,3 @@ I own frontend architecture end to end: from monorepo setups and reusable design
 **Bachelor of Computer Applications — Computer Science** · Jaipur
 
 ---
-
-<!-- Replace YOUR_GITHUB_USERNAME below with your actual GitHub username to enable the stats cards -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=visdutt1234&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visdutt1234&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
-</p>
